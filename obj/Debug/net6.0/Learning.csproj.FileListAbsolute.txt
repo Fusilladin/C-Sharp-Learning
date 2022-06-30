@@ -1,0 +1,5 @@
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\obj\Debug\net6.0\Learning.csproj.AssemblyReference.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\obj\Debug\net6.0\Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\obj\Debug\net6.0\Learning.AssemblyInfoInputs.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\obj\Debug\net6.0\Learning.AssemblyInfo.cs
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\obj\Debug\net6.0\Learning.csproj.CoreCompileInputs.cache
