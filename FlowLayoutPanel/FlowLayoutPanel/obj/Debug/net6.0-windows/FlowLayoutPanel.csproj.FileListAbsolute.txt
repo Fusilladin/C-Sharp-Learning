@@ -1,0 +1,17 @@
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\FlowLayoutPanel\bin\Debug\net6.0-windows\FlowLayoutPanel.exe
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\FlowLayoutPanel\bin\Debug\net6.0-windows\FlowLayoutPanel.deps.json
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\FlowLayoutPanel\bin\Debug\net6.0-windows\FlowLayoutPanel.runtimeconfig.json
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\FlowLayoutPanel\bin\Debug\net6.0-windows\FlowLayoutPanel.dll
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\FlowLayoutPanel\bin\Debug\net6.0-windows\FlowLayoutPanel.pdb
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\FlowLayoutPanel\obj\Debug\net6.0-windows\FlowLayoutPanel.csproj.AssemblyReference.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\FlowLayoutPanel\obj\Debug\net6.0-windows\FlowLayoutPanel.Form1.resources
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\FlowLayoutPanel\obj\Debug\net6.0-windows\FlowLayoutPanel.csproj.GenerateResource.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\FlowLayoutPanel\obj\Debug\net6.0-windows\FlowLayoutPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\FlowLayoutPanel\obj\Debug\net6.0-windows\FlowLayoutPanel.AssemblyInfoInputs.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\FlowLayoutPanel\obj\Debug\net6.0-windows\FlowLayoutPanel.AssemblyInfo.cs
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\FlowLayoutPanel\obj\Debug\net6.0-windows\FlowLayoutPanel.csproj.CoreCompileInputs.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\FlowLayoutPanel\obj\Debug\net6.0-windows\FlowLayoutPanel.dll
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\FlowLayoutPanel\obj\Debug\net6.0-windows\refint\FlowLayoutPanel.dll
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\FlowLayoutPanel\obj\Debug\net6.0-windows\FlowLayoutPanel.pdb
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\FlowLayoutPanel\obj\Debug\net6.0-windows\FlowLayoutPanel.genruntimeconfig.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\FlowLayoutPanel\obj\Debug\net6.0-windows\ref\FlowLayoutPanel.dll

@@ -1,0 +1,11 @@
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\DataConnection\DataConnection\bin\Debug\DataConnection.exe.config
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\DataConnection\DataConnection\bin\Debug\DataConnection.exe
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\DataConnection\DataConnection\bin\Debug\DataConnection.pdb
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\DataConnection\DataConnection\obj\Debug\DataConnection.csproj.AssemblyReference.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\DataConnection\DataConnection\obj\Debug\DataConnection.csproj.SuggestedBindingRedirects.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\DataConnection\DataConnection\obj\Debug\DataConnection.Form1.resources
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\DataConnection\DataConnection\obj\Debug\DataConnection.Properties.Resources.resources
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\DataConnection\DataConnection\obj\Debug\DataConnection.csproj.GenerateResource.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\DataConnection\DataConnection\obj\Debug\DataConnection.csproj.CoreCompileInputs.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\DataConnection\DataConnection\obj\Debug\DataConnection.exe
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\DataConnection\DataConnection\obj\Debug\DataConnection.pdb
