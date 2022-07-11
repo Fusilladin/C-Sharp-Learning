@@ -1,0 +1,15 @@
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow3\bin\Debug\Flow3.exe.config
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow3\bin\Debug\Flow3.exe
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow3\bin\Debug\Flow3.pdb
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow3\obj\Debug\Flow3.csproj.AssemblyReference.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow3\obj\Debug\Flow3.csproj.SuggestedBindingRedirects.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow3\obj\Debug\Flow3.Form1.resources
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow3\obj\Debug\Flow3.Properties.Resources.resources
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow3\obj\Debug\Flow3.csproj.GenerateResource.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow3\obj\Debug\Flow3.csproj.CoreCompileInputs.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow3\obj\Debug\Flow3.exe
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow3\obj\Debug\Flow3.pdb
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow3\obj\Debug\Flow3.ListItem.resources
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow3\obj\Debug\Flow3.Form2.resources
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow3\obj\Debug\Flow3.UserControl1.resources
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow3\obj\Debug\Flow3.UserControl2.resources
