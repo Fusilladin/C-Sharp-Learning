@@ -37,6 +37,7 @@
             this.PasswordTb = new System.Windows.Forms.TextBox();
             this.ConnBtn = new System.Windows.Forms.Button();
             this.fileSystemWatcher1 = new System.IO.FileSystemWatcher();
+            this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.userControl11 = new Flow3.UserControl1();
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).BeginInit();
             this.SuspendLayout();
@@ -118,6 +119,15 @@
             this.fileSystemWatcher1.EnableRaisingEvents = true;
             this.fileSystemWatcher1.SynchronizingObject = this;
             // 
+            // flowLayoutPanel1
+            // 
+            this.flowLayoutPanel1.BackColor = System.Drawing.Color.Silver;
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(16, 48);
+            this.flowLayoutPanel1.Name = "flowLayoutPanel1";
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(800, 533);
+            this.flowLayoutPanel1.TabIndex = 9;
+            this.flowLayoutPanel1.Paint += new System.Windows.Forms.PaintEventHandler(this.flowLayoutPanel1_Paint);
+            // 
             // userControl11
             // 
             this.userControl11.BackColor = System.Drawing.SystemColors.ActiveCaption;
@@ -131,6 +141,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1201, 631);
+            this.Controls.Add(this.flowLayoutPanel1);
             this.Controls.Add(this.userControl11);
             this.Controls.Add(this.ConnBtn);
             this.Controls.Add(this.PasswordTb);
@@ -160,5 +171,6 @@
         private System.Windows.Forms.Button ConnBtn;
         private System.IO.FileSystemWatcher fileSystemWatcher1;
         private UserControl1 userControl11;
+        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
     }
 }

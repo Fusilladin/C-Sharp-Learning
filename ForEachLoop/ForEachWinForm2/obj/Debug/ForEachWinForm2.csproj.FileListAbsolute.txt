@@ -1,0 +1,12 @@
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWinForm2\bin\Debug\ForEachWinForm2.exe.config
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWinForm2\bin\Debug\ForEachWinForm2.exe
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWinForm2\bin\Debug\ForEachWinForm2.pdb
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWinForm2\obj\Debug\ForEachWinForm2.csproj.AssemblyReference.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWinForm2\obj\Debug\ForEachWinForm2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWinForm2\obj\Debug\ForEachWinForm2.Form1.resources
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWinForm2\obj\Debug\ForEachWinForm2.Properties.Resources.resources
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWinForm2\obj\Debug\ForEachWinForm2.csproj.GenerateResource.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWinForm2\obj\Debug\ForEachWinForm2.csproj.CoreCompileInputs.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWinForm2\obj\Debug\ForEachWinForm2.exe
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWinForm2\obj\Debug\ForEachWinForm2.pdb
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWinForm2\obj\Debug\ForEachWinForm2.UserControl1.resources

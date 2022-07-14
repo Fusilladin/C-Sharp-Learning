@@ -12,6 +12,8 @@ namespace Flow3
 {
     public partial class ListItem : UserControl
     {
+        
+
         public ListItem()
         {
             InitializeComponent();
@@ -23,12 +25,22 @@ namespace Flow3
         private string _title;
         private string _message;
         private Image _icon;
+        private DataRow _row;
+
         [Category("Custom Props")]
         public string Title
         {
             get { return _title; }
             set { _title = value; LblTitle.Text = value; }
         }
+
+        [Category("Custom Props")]
+        public DataRow DataRow
+        {
+            get { return _row; }
+            set { _row = value; }
+        }
+
         [Category("Custom Props")]
         public Color IconBackground
         {

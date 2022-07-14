@@ -31,11 +31,11 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.userControl11 = new Flow3.UserControl1();
             this.button1 = new System.Windows.Forms.Button();
             this.ConnBtn = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.userControl11 = new Flow3.UserControl1();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
@@ -57,6 +57,7 @@
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
             this.flowLayoutPanel1.Size = new System.Drawing.Size(860, 612);
             this.flowLayoutPanel1.TabIndex = 1;
+            this.flowLayoutPanel1.Paint += new System.Windows.Forms.PaintEventHandler(this.flowLayoutPanel1_Paint);
             // 
             // panel2
             // 
@@ -71,6 +72,15 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(307, 612);
             this.panel2.TabIndex = 1;
+            // 
+            // userControl11
+            // 
+            this.userControl11.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.userControl11.Location = new System.Drawing.Point(3, 3);
+            this.userControl11.Name = "userControl11";
+            this.userControl11.Size = new System.Drawing.Size(286, 609);
+            this.userControl11.TabIndex = 0;
+            this.userControl11.Load += new System.EventHandler(this.userControl11_Load);
             // 
             // button1
             // 
@@ -116,14 +126,6 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "KeepToo";
             this.label1.Click += new System.EventHandler(this.label1_Click);
-            // 
-            // userControl11
-            // 
-            this.userControl11.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.userControl11.Location = new System.Drawing.Point(3, 3);
-            this.userControl11.Name = "userControl11";
-            this.userControl11.Size = new System.Drawing.Size(286, 609);
-            this.userControl11.TabIndex = 0;
             // 
             // Form1
             // 

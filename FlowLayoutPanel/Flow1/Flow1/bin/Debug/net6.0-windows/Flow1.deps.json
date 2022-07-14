@@ -7,8 +7,19 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Flow1/1.0.0": {
+        "dependencies": {
+          "MICROSOFT.SQLSERVER.DATAWAREHOUSE.WORKLOADDEPLOYMENT": "10.0.0.0"
+        },
         "runtime": {
           "Flow1.dll": {}
+        }
+      },
+      "MICROSOFT.SQLSERVER.DATAWAREHOUSE.WORKLOADDEPLOYMENT/10.0.0.0": {
+        "runtime": {
+          "MICROSOFT.SQLSERVER.DATAWAREHOUSE.WORKLOADDEPLOYMENT.DLL": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "15.0.1792.0"
+          }
         }
       }
     }
@@ -16,6 +27,11 @@
   "libraries": {
     "Flow1/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MICROSOFT.SQLSERVER.DATAWAREHOUSE.WORKLOADDEPLOYMENT/10.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

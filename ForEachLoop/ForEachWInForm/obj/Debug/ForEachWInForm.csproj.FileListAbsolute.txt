@@ -1,0 +1,11 @@
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWInForm\bin\Debug\ForEachWInForm.exe.config
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWInForm\bin\Debug\ForEachWInForm.exe
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWInForm\bin\Debug\ForEachWInForm.pdb
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWInForm\obj\Debug\ForEachWInForm.csproj.AssemblyReference.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWInForm\obj\Debug\ForEachWInForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWInForm\obj\Debug\ForEachWInForm.Form1.resources
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWInForm\obj\Debug\ForEachWInForm.Properties.Resources.resources
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWInForm\obj\Debug\ForEachWInForm.csproj.GenerateResource.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWInForm\obj\Debug\ForEachWInForm.csproj.CoreCompileInputs.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWInForm\obj\Debug\ForEachWInForm.exe
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\ForEachLoop\ForEachWInForm\obj\Debug\ForEachWInForm.pdb

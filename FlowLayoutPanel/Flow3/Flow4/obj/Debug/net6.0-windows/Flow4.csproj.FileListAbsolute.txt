@@ -1,0 +1,7 @@
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow4\obj\Debug\net6.0-windows\Flow4.csproj.AssemblyReference.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow4\obj\Debug\net6.0-windows\Flow4.Form1.resources
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow4\obj\Debug\net6.0-windows\Flow4.csproj.GenerateResource.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow4\obj\Debug\net6.0-windows\Flow4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow4\obj\Debug\net6.0-windows\Flow4.AssemblyInfoInputs.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow4\obj\Debug\net6.0-windows\Flow4.AssemblyInfo.cs
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow3\Flow4\obj\Debug\net6.0-windows\Flow4.csproj.CoreCompileInputs.cache

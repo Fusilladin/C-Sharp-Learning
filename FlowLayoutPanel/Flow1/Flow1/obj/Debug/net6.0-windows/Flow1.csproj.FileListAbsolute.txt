@@ -15,3 +15,5 @@ C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\
 C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow1\Flow1\obj\Debug\net6.0-windows\Flow1.pdb
 C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow1\Flow1\obj\Debug\net6.0-windows\Flow1.genruntimeconfig.cache
 C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow1\Flow1\obj\Debug\net6.0-windows\ref\Flow1.dll
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow1\Flow1\bin\Debug\net6.0-windows\MICROSOFT.SQLSERVER.DATAWAREHOUSE.WORKLOADDEPLOYMENT.DLL
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Learning\FlowLayoutPanel\Flow1\Flow1\obj\Debug\net6.0-windows\Flow1.csproj.CopyComplete
